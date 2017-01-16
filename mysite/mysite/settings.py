@@ -25,7 +25,7 @@ SECRET_KEY = '85hltl((&&xl%x0x%!l9xybvvm%pfzaxsm#u2jc$(3=t=t1=j4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['expyh.pythonanywhere.com']
 
 
 # Application definition
